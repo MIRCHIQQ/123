@@ -515,7 +515,7 @@ export const promotions: Promotion[] = [
     description:
       "Первый приём терапевта или профильного специалиста со скидкой 20% для новых пациентов.",
     terms: "Скидка действует при записи по телефону в течение месяца.",
-    image: "public/assets/project-cover.png",
+    image: "/public/assets/project-cover.png",
   },
   {
     icon: HeartPulse,
@@ -523,7 +523,7 @@ export const promotions: Promotion[] = [
     description:
       "Пройдите УЗИ, анализы и консультацию в один день по специальной цене комплекса.",
     terms: "Не суммируется с другими акциями и скидочными картами.",
-    image: "public/assets/project-cover.png",
+    image: "/public/assets/project-cover.png",
   },
   {
     icon: Activity,
@@ -531,7 +531,7 @@ export const promotions: Promotion[] = [
     description:
       "При записи на любое обследование — расшифровка ЭКГ в подарок.",
     terms: "Количество мест ограничено, уточняйте у администратора.",
-    image: "public/assets/project-cover.png",
+    image: "/public/assets/project-cover.png",
   },
   {
     icon: FlaskConical,
@@ -539,6 +539,6 @@ export const promotions: Promotion[] = [
     description:
       "Скидка на весь спектр лабораторных исследований при заказе трёх и более анализов.",
     terms: "Акция распространяется на комплексные программы обследования.",
-    image: "public/assets/project-cover.png",
+    image: "/public/assets/project-cover.png",
   },
 ];
